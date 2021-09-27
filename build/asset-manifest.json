@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2074d27.chunk.css",
+    "main.js": "/static/js/main.28128260.chunk.js",
+    "main.js.map": "/static/js/main.28128260.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.459be09a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.459be09a.js.map",
+    "static/js/2.14b9d6e2.chunk.js": "/static/js/2.14b9d6e2.chunk.js",
+    "static/js/2.14b9d6e2.chunk.js.map": "/static/js/2.14b9d6e2.chunk.js.map",
+    "static/js/3.87070005.chunk.js": "/static/js/3.87070005.chunk.js",
+    "static/js/3.87070005.chunk.js.map": "/static/js/3.87070005.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d2074d27.chunk.css.map": "/static/css/main.d2074d27.chunk.css.map",
+    "static/js/2.14b9d6e2.chunk.js.LICENSE.txt": "/static/js/2.14b9d6e2.chunk.js.LICENSE.txt",
+    "static/media/Screenshot_11.1ec46a30.png": "/static/media/Screenshot_11.1ec46a30.png",
+    "static/media/MainHeader.css": "/static/media/carity-3.ac813720.jpg",
+    "static/media/team1.89ceb7ee.png": "/static/media/team1.89ceb7ee.png",
+    "static/media/team2.eef66c5d.png": "/static/media/team2.eef66c5d.png",
+    "static/media/team3.8c53f3b8.png": "/static/media/team3.8c53f3b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459be09a.js",
+    "static/js/2.14b9d6e2.chunk.js",
+    "static/css/main.d2074d27.chunk.css",
+    "static/js/main.28128260.chunk.js"
+  ]
+}
